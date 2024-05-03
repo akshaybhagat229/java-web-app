@@ -6,7 +6,7 @@
     <title>Travel Website</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Calibri, sans-serif;
             margin: 0;
             padding: 0;
         }
