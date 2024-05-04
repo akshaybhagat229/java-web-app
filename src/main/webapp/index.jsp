@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AB Travel Website</title>
+    <title>AB1 Travel Website</title>
     <style>
         body {
             font-family: NSimSun, sans-serif;
