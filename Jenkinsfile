@@ -16,7 +16,7 @@ pipeline{
                          deploy adapters:[tomcat9(
                          url: "http://54.152.175.108:8080/",
                          username: 'tomcat',
-                         password: 'tomcat',war:'target/*.war'
+                         password: 'tomcat', war:'target/*.war'
                    }
            }
       }
