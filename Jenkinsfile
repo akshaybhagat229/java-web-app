@@ -13,7 +13,7 @@ pipeline{
            }
         stage('Deployment'){
                    steps{
-                         deploy adapters:[tomcat9(url:"",credentialsId:"")],war:'target/*.war'
+                         deploy adapters:[tomcat9(url:"http://54.152.175.108:8080/",credentialsId:"credential-tomcat")],war:'target/*.war'
                    }
            }
       }
